@@ -10,7 +10,7 @@
 		<step>1</step>
 	</start>
 	<steps>
-		<automatic id="1" title="Print">
+		<automatic id="1" title="Print">12345
 			<description>Print ACH documents</description>
 			<script>MHC.Plugins.PrintPlugin</script>
 			<parameters>
